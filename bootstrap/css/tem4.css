@@ -1,0 +1,45 @@
+.one{
+    border: 1px solid black;
+    background-color: green;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.two{
+    border: 1px solid black;
+    background-color: rgb(37, 172, 196);
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.three{
+    border: 1px solid black;
+    background-color: rgb(190, 87, 27);
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.four{
+    border: 1px solid black;
+    background-color: rgb(161, 49, 217);
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.five{
+    border: 1px solid black;
+    background-color: rgb(233, 242, 103);
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.six{
+    border: 1px solid black;
+    background-color: rgb(228, 225, 62);
+    padding-top: 60%;
+    padding-bottom:60%;
+}
+.seven{
+    border: 1px solid black;
+    background-color: rgb(226, 197, 240);
+    padding-top: 60%;
+    padding-bottom:60%;
+}
+/* .one{
+    bottom: 1px solid black;
+} */

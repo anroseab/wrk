@@ -1,0 +1,15 @@
+.one{
+    border: 1px solid black;
+    background-color: black;
+    color: aliceblue;
+    padding: 25%;
+}
+.two{
+    border: 1px solid black;
+    background-color: black; 
+    padding-top: 20px;
+}
+.three{
+    border: 1px solid black;
+    padding: 25%;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(228, 169, 92);
+}
+div{
+    background-image: url(img4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+    border-radius: 50px;
+ border: 5px solid black;
+ padding:0.5%;
+}
+img{
+    border-radius: 50%;
+ border: 5px solid black;
+ padding:20px 20px 20px 20px;
+ margin-left: 30%;
+}

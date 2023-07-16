@@ -1,0 +1,86 @@
+
+.hcls{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    margin-left:100px ;
+    margin-right:100px ;
+}
+.pcls{
+        margin:30px 50px 30px 50px;
+        border-bottom: 5px solid black;
+        text-align: center;
+        font-size: 22px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 30px;
+        margin-left: 150px;
+        margin-right:150px ;
+}
+.img1{
+    border-radius: 50%;
+         border: 10px solid rgb(44, 5, 5);
+         padding:1px 1px 1px 1px;
+         margin-left:10%;
+
+      
+}
+.first{
+margin-left: 550px;
+margin-top: -15%;
+font-size: 19px;
+margin-right: 200px;
+text-align: justify;
+}
+.one{
+border:2px solid black ;
+margin-left: 20%;
+padding: 20px;
+text-align: justify;
+}
+div{
+display: block;
+}
+
+.two{
+border:2px solid black ;
+margin: left 0.1em;
+padding: 20px;
+text-align: justify;
+}
+div{
+display: block;
+}
+.three{
+border:2px solid black ;
+margin: left 0.5em;;
+padding: 20px;
+text-align: justify;
+margin-right: 20%;
+}
+.bo{
+padding: 80px  0px 80px 0px;
+display: inline-flex;
+margin-top: 50px;
+background-color: aliceblue;
+
+}
+.one img.im2{
+margin-left: 30%;
+}
+h4{
+margin-left: 150px;
+}
+section{
+background-color:burlywood ;
+text-align: center;
+margin:20px 20px 20px 20px;
+border: 30px solid burlywood;
+width: 100%;
+
+}
+a:hover{
+color: aliceblue;
+    background-color: black;
+    
+}

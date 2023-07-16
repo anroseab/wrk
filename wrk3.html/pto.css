@@ -1,0 +1,21 @@
+#first{
+    text-align: center;
+    color:white;
+    background-color: black;
+}
+#second{
+    text-align: center;
+    color:rgb(253, 203, 203);
+    background-color: black;
+}
+#demo{
+    text-align: justify;
+    margin: 10px;
+    color: blueviolet;
+
+height: 100vh;
+}
+body{
+    background-color: darkgrey;
+
+}
